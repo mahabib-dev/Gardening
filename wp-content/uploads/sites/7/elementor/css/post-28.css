@@ -1,0 +1,246 @@
+.elementor-kit-28 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-21506010: #4054B2;
+    --e-global-color-3d5e3c71: #23A455;
+    --e-global-color-1f045851: #000;
+    --e-global-color-1aba339d: #FFF;
+    --e-global-color-4f672cf6: #3CB963;
+    --e-global-color-61875114: #020101;
+    --e-global-color-15cdb4ba: #3E3E3E;
+    --e-global-color-16c14cc1: #0D0D0D;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    color: #3E3E3E;
+    font-family: "Heebo", Sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.8em;
+}
+
+.elementor-kit-28 button,
+.elementor-kit-28 input[type="button"],
+.elementor-kit-28 input[type="submit"],
+.elementor-kit-28 .elementor-button {
+    background-color: #3CB963;
+    font-family: "Heebo", Sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.6em;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #3CB963;
+    border-radius: 0px 0px 0px 0px;
+    padding: 15px 30px 15px 30px;
+}
+
+.elementor-kit-28 button:hover,
+.elementor-kit-28 button:focus,
+.elementor-kit-28 input[type="button"]:hover,
+.elementor-kit-28 input[type="button"]:focus,
+.elementor-kit-28 input[type="submit"]:hover,
+.elementor-kit-28 input[type="submit"]:focus,
+.elementor-kit-28 .elementor-button:hover,
+.elementor-kit-28 .elementor-button:focus {
+    background-color: #27AD51;
+    color: #FFFFFF;
+}
+
+.elementor-kit-28 e-page-transition {
+    background-color: #FFBC7D;
+}
+
+.elementor-kit-28 a {
+    color: #3CB963;
+}
+
+.elementor-kit-28 h1 {
+    color: #0D0D0D;
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 44px;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+.elementor-kit-28 h2 {
+    color: #0D0D0D;
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+.elementor-kit-28 h3 {
+    color: #0D0D0D;
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+.elementor-kit-28 h4 {
+    color: #0D0D0D;
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+.elementor-kit-28 h5 {
+    color: #0D0D0D;
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+.elementor-kit-28 h6 {
+    color: #0D0D0D;
+    font-family: "Abhaya Libre", Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+.elementor-kit-28 label {
+    color: #3E3E3E;
+    font-family: "Heebo", Sans-serif;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+
+.elementor-kit-28 input:not([type="button"]):not([type="submit"]),
+.elementor-kit-28 textarea,
+.elementor-kit-28 .elementor-field-textual {
+    font-family: "Heebo", Sans-serif;
+    font-weight: normal;
+    color: #3E3E3E;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: #CCCCCC;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-kit-28 input:focus:not([type="button"]):not([type="submit"]),
+.elementor-kit-28 textarea:focus,
+.elementor-kit-28 .elementor-field-textual:focus {
+    border-style: solid;
+    border-color: #B8B8B8;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px;
+}
+
+.e-con {
+    --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-block-end: 20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px 20px;
+    --widgets-spacing-row: 20px;
+    --widgets-spacing-column: 20px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media(max-width:1024px) {
+    .elementor-kit-28 h1 {
+        font-size: 40px;
+    }
+    .elementor-kit-28 h2 {
+        font-size: 36px;
+    }
+    .elementor-kit-28 h3 {
+        font-size: 32px;
+    }
+    .elementor-kit-28 h4 {
+        font-size: 28px;
+    }
+    .elementor-kit-28 h5 {
+        font-size: 24px;
+    }
+    .elementor-kit-28 h6 {
+        font-size: 20px;
+    }
+    .elementor-kit-28 button,
+    .elementor-kit-28 input[type="button"],
+    .elementor-kit-28 input[type="submit"],
+    .elementor-kit-28 .elementor-button {
+        padding: 12px 25px 12px 25px;
+    }
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-kit-28 h1 {
+        font-size: 36px;
+    }
+    .elementor-kit-28 h2 {
+        font-size: 32px;
+    }
+    .elementor-kit-28 h3 {
+        font-size: 28px;
+    }
+    .elementor-kit-28 h4 {
+        font-size: 24px;
+    }
+    .elementor-kit-28 h5 {
+        font-size: 20px;
+    }
+    .elementor-kit-28 h6 {
+        font-size: 18px;
+    }
+    .elementor-kit-28 button,
+    .elementor-kit-28 input[type="button"],
+    .elementor-kit-28 input[type="submit"],
+    .elementor-kit-28 .elementor-button {
+        font-size: 12px;
+        padding: 12px 20px 12px 20px;
+    }
+    .elementor-kit-28 label {
+        font-size: 15px;
+        line-height: 1.6em;
+    }
+    .elementor-kit-28 input:not([type="button"]):not([type="submit"]),
+    .elementor-kit-28 textarea,
+    .elementor-kit-28 .elementor-field-textual {
+        font-size: 15px;
+        line-height: 1.6em;
+        border-width: 1px 1px 1px 1px;
+    }
+    .elementor-kit-28 input:focus:not([type="button"]):not([type="submit"]),
+    .elementor-kit-28 textarea:focus,
+    .elementor-kit-28 .elementor-field-textual:focus {
+        border-width: 1px 1px 1px 1px;
+    }
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
